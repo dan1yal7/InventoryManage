@@ -5,7 +5,7 @@ Inventory inventory = new Inventory();
 inventory.AddItem("item1", 10, 5.99m);
 inventory.AddItem("Item2", 5, 8.49m);
 
-// Вывод информации о товарах на складе
+// Вывод информации о товарах на складе ///
 inventory.Display();
 
 

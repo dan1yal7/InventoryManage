@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Management\\Inventory Management\\Inventory Management\\Inventory Management.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\InventoryManage\\Management\\Inventory Management\\Inventory Management\\Inventory Management.csproj",
       "projectName": "Inventory Management",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Management\\Inventory Management\\Inventory Management\\Inventory Management.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\InventoryManage\\Management\\Inventory Management\\Inventory Management\\Inventory Management.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Management\\Inventory Management\\Inventory Management\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\InventoryManage\\Management\\Inventory Management\\Inventory Management\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
